@@ -22,7 +22,7 @@
             </div>
             <?php }?>
         </div>
-        <a href="index.php?userlist=1">Список</a>
+        <a href="index.php?userlist=1">Список користувачів</a>
     </div>
 </body>
 </html>`
